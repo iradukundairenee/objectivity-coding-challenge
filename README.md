@@ -2,7 +2,7 @@
 # challenge entry .net course
 
 This repository contains two challenges for the Objectivity coding challenge
-
+i used javascript 
 Challenge 1: Array Change
 Create a function that takes two arrays (original array, updated array) as input and returns two arrays of modifications (new elements, removed elements).
 
